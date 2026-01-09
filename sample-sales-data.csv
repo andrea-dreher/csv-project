@@ -1,0 +1,6 @@
+OrderID,OrderDate,Customer,Industry,Product,Category,Quantity,UnitPrice,Region
+10001,2024-01-05,MedTech Solutions GmbH,Medizintechnik,Infusionspumpe A,Geräte,5,1200,Süddeutschland
+10002,2024-01-07,AutoParts Müller AG,Automobilteile,Sensor X12,Elektronik,50,85,Baden-Württemberg
+10003,2024-01-10,HealthCare Systems GmbH,Medizintechnik,Beatmungsgerät Pro,Geräte,2,18500,Bayern
+10004,2024-01-12,DriveTech GmbH,Automobilteile,Steuergerät Z3,Elektronik,15,320,Nordrhein-Westfalen
+10005,2024-01-15,MedTech Solutions GmbH,Medizintechnik,Einmalfilter Set,Verbrauchsmaterial,200,12,Süddeutschland
