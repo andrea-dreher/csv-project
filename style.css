@@ -66,3 +66,18 @@ nav a {
 nav a:hover {
     text-decoration: underline;
 }
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+th {
+    background-color: var(--primary-color);
+    color: #fff;
+}
