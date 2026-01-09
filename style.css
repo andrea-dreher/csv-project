@@ -1,0 +1,68 @@
+:root {
+    --primary-color: #be185d;   /* Rosa / Pink */
+    --secondary-color: #9d174d; /* dunkleres Rosa */
+    --background-color: #fdf2f8;
+    --section-bg: #fde8f2;      /* leichtes Rosa für Sections */
+    --text-color: #333333;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: var(--background-color);
+    color: var(--text-color);
+    line-height: 1.6;
+}
+
+header {
+    background-color: var(--primary-color);
+    color: #ffffff;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+main {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+section {
+    background-color: var(--section-bg);
+    padding: 30px;
+    margin-bottom: 30px;
+    border-radius: 8px;
+}
+
+h1, h2 {
+    margin-top: 0;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    font-size: 0.9em;
+    color: #666;
+}
+
+nav {
+    background-color: var(--secondary-color);
+    padding: 10px 20px;
+    text-align: center;
+}
+
+nav a {
+    color: #ffffff;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
